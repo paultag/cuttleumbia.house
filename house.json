@@ -1,0 +1,12 @@
+{
+    "name": "District of Cuttleumbia",
+    "location": {
+        "lat": 38.903140,
+        "lon": -77.002459
+    }
+    "address": {,
+        "region": "Washington, DC",
+        "postal_code": "20002",
+        "street_address": "Unit 218, 250 K Street NE"
+    }
+}
